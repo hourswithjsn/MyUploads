@@ -1,0 +1,824 @@
+{
+	"name" : "WHSE_IMAGERY_AND_BASE_MAPS.GSR_CORRECTNL_FACILITIES_SV",
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3005"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1303403.9749999992, 480994.648000001 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mountain Institution",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "4732 Cemetery Rd",
+				"LOCALITY" : "Agassiz",
+				"MAILING_ADDRESS" : "4732 Cemetery Rd, Agassiz, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2649044,
+				"LONGITUDE" : -121.8328258,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "4732 Cemetery Rd, Agassiz, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "31",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 80,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1142276.503, 467640.3400000008 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Nanaimo Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "3945 Biggs Rd",
+				"LOCALITY" : "Nanaimo",
+				"MAILING_ADDRESS" : "3945 Biggs Rd, Nanaimo, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2074621,
+				"LONGITUDE" : -124.0491649,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "3945 Biggs Rd, Nanaimo, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "43",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 74,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1270798.2399999998, 467959.7220000075 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mission Institution",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "8751 Stave Lake St",
+				"LOCALITY" : "Mission",
+				"MAILING_ADDRESS" : "8751 Stave Lake St, Mission, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1640843,
+				"LONGITUDE" : -122.2891618,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "8751 Stave Lake St, Mission, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "30",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 68,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1270730.0659999996, 467548.95500000194 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Ferndale Institution",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "33737 Dewdney Trunk Rd",
+				"LOCALITY" : "Mission",
+				"MAILING_ADDRESS" : "33737 Dewdney Trunk Rd, Mission, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1604241,
+				"LONGITUDE" : -122.290389,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "33737 Dewdney Trunk Rd, Mission, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "34",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 82,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1318969.2400000002, 463967.84199999925 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Ford Mountain Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "57657 Chilliwack Lake Rd",
+				"LOCALITY" : "Chilliwack River Valley",
+				"MAILING_ADDRESS" : "57657 Chilliwack Lake Rd, Chilliwack River Valley, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1034852,
+				"LONGITUDE" : -121.633976,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "57657 Chilliwack Lake Rd, Chilliwack River Valley, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "41",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 64,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830626.9249999982, 1060250.811999999 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Terrace Community Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "3120 Braun St",
+				"LOCALITY" : "Terrace",
+				"MAILING_ADDRESS" : "3120 Braun St, Terrace, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 54.5151818,
+				"LONGITUDE" : -128.623052,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "3120 Braun St, Terrace, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "48",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 66,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1252731.3949999998, 476293.85999999754 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Alouette Correctional Centre for Women",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "24800 Alouette Rd",
+				"LOCALITY" : "Maple Ridge",
+				"MAILING_ADDRESS" : "24800 Alouette Rd, Maple Ridge, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2472443,
+				"LONGITUDE" : -122.5307358,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "24800 Alouette Rd, Maple Ridge, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "53",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 30,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1189541.0449999992, 386464.6149999965 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Victoria Youth Custody Centre",
+				"KEYWORDS" : "correctional; youth custody",
+				"STREET_ADDRESS" : "94 Talcott Rd",
+				"LOCALITY" : "View Royal",
+				"MAILING_ADDRESS" : "94 Talcott Rd, View Royal, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 48.4632057,
+				"LONGITUDE" : -123.4417994,
+				"CORRECTIONAL_FACILITY_TYPE" : "YOUTHCUSTODY",
+				"PHYSICAL_ADDRESS" : "94 Talcott Rd, View Royal, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "54",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 32,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1303644.0240000002, 480586.0949999979 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Kent Institution",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "4732 Cemetery Rd",
+				"LOCALITY" : "Agassiz",
+				"MAILING_ADDRESS" : "4732 Cemetery Rd, Agassiz, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2611067,
+				"LONGITUDE" : -121.8298666,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "4732 Cemetery Rd, Agassiz, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "28",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 38,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1183346.6560000002, 372674.0859999936 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "William Head Institution",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "6000 William Head Rd",
+				"LOCALITY" : "Metchosin",
+				"MAILING_ADDRESS" : "6000 William Head Rd, Metchosin, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 48.3409801,
+				"LONGITUDE" : -123.5318216,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "6000 William Head Rd, Metchosin, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "33",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 60,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1310049.9840000004, 460497.44200000074 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mount Thurston Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "53033 Chilliwack Lake Rd",
+				"LOCALITY" : "Chilliwack River Valley",
+				"MAILING_ADDRESS" : "53033 Chilliwack Lake Rd, Chilliwack River Valley, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.0771797,
+				"LONGITUDE" : -121.7586083,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "53033 Chilliwack Lake Rd, Chilliwack River Valley, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "42",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 58,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1254022.9979999997, 477223.9170000013 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Fraser Regional Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "13777 256 St",
+				"LOCALITY" : "Maple Ridge",
+				"MAILING_ADDRESS" : "13777 256 St, Maple Ridge, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2550339,
+				"LONGITUDE" : -122.512406,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "13777 256 St, Maple Ridge, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "50",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 52,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1218182.201, 475180.88499999605 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Burnaby Youth Open Custody Services",
+				"KEYWORDS" : "correctional; youth custody",
+				"STREET_ADDRESS" : "3535 Willingdon Ave",
+				"LOCALITY" : "Burnaby",
+				"MAILING_ADDRESS" : "3535 Willingdon Ave, Burnaby, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2514297,
+				"LONGITUDE" : -123.0050308,
+				"CORRECTIONAL_FACILITY_TYPE" : "YOUTHCUSTODY",
+				"PHYSICAL_ADDRESS" : "3535 Willingdon Ave, Burnaby, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "35",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 56,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1394355.5250000001, 643483.5229999973 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Kamloops Regional Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "2250 W Trans-Canada Hwy",
+				"LOCALITY" : "Kamloops",
+				"MAILING_ADDRESS" : "2250 W Trans-Canada Hwy, Kamloops, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.6661558,
+				"LONGITUDE" : -120.4122722,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "2250 W Trans-Canada Hwy, Kamloops, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "39",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 78,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1191825.7330000005, 388691.5099999998 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Vancouver Island Regional Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "4216 Wilkinson Rd",
+				"LOCALITY" : "Saanich",
+				"MAILING_ADDRESS" : "4216 Wilkinson Rd, Saanich, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 48.4825112,
+				"LONGITUDE" : -123.4098915,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "4216 Wilkinson Rd, Saanich, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "44",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 44,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1231958.879, 459722.7039999999 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Surrey Pretrial Services Centre",
+				"KEYWORDS" : "correctional; pretrial",
+				"STREET_ADDRESS" : "14323 57 Ave",
+				"LOCALITY" : "Surrey",
+				"MAILING_ADDRESS" : "14323 57 Ave, Surrey, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1070197,
+				"LONGITUDE" : -122.8256745,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRETRIAL",
+				"PHYSICAL_ADDRESS" : "14323 57 Ave, Surrey, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "45",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 34,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1211226.9399999997, 478341.25399999786 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Vancouver Pretrial Services Centre",
+				"KEYWORDS" : "correctional; pretrial",
+				"STREET_ADDRESS" : "275 E Cordova St",
+				"LOCALITY" : "Vancouver",
+				"MAILING_ADDRESS" : "275 E Cordova St, Vancouver, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2824541,
+				"LONGITUDE" : -123.0986195,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRETRIAL",
+				"PHYSICAL_ADDRESS" : "275 E Cordova St, Vancouver, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "49",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 42,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1218059.4470000002, 475281.02600000426 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Burnaby Co-ed Custody Unit",
+				"KEYWORDS" : "correctional; youth custody",
+				"STREET_ADDRESS" : "3405 Willingdon Ave",
+				"LOCALITY" : "Burnaby",
+				"MAILING_ADDRESS" : "3405 Willingdon Ave, Burnaby, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2523769,
+				"LONGITUDE" : -123.0066557,
+				"CORRECTIONAL_FACILITY_TYPE" : "YOUTHCUSTODY",
+				"PHYSICAL_ADDRESS" : "3405 Willingdon Ave, Burnaby, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "36",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 28,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1215867.892, 993734.851999999 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Prince George Youth Custody Centre",
+				"KEYWORDS" : "correctional; youth custody",
+				"STREET_ADDRESS" : "1211 Gunn Rd",
+				"LOCALITY" : "Prince George",
+				"MAILING_ADDRESS" : "1211 Gunn Rd, Prince George, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 53.9023409,
+				"LONGITUDE" : -122.7057327,
+				"CORRECTIONAL_FACILITY_TYPE" : "YOUTHCUSTODY",
+				"PHYSICAL_ADDRESS" : "1211 Gunn Rd, Prince George, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "38",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 62,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1215525.425000001, 994300.0239999909 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Prince George Regional Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "795 Hwy 16 E",
+				"LOCALITY" : "Prince George",
+				"MAILING_ADDRESS" : "795 Hwy 16 E, Prince George, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 53.9075421,
+				"LONGITUDE" : -122.7105509,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "795 Hwy 16 E, Prince George, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "51",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 72,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1236481.9090000007, 475873.4619999984 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "North Fraser Pretrial Centre",
+				"KEYWORDS" : "correctional; pretrial",
+				"STREET_ADDRESS" : "1451 Kingsway Ave",
+				"LOCALITY" : "Port Coquitlam",
+				"MAILING_ADDRESS" : "1451 Kingsway Ave, Port Coquitlam, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2503991,
+				"LONGITUDE" : -122.7537349,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRETRIAL",
+				"PHYSICAL_ADDRESS" : "1451 Kingsway Ave, Port Coquitlam, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "52",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 50,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1294018.5969999991, 483131.58800000325 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Kwikwexwelhp Healing Village",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "16259 Morris Valley Rd",
+				"LOCALITY" : "Harrison Mills",
+				"MAILING_ADDRESS" : "16259 Morris Valley Rd, Harrison Mills, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2889977,
+				"LONGITUDE" : -121.9597742,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "16259 Morris Valley Rd, Harrison Mills, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "55",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 70,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1270734.8189999992, 453135.54199999664 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Regional Health Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "33344 King Rd",
+				"LOCALITY" : "Abbotsford",
+				"MAILING_ADDRESS" : "33344 King Rd, Abbotsford, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.0308465,
+				"LONGITUDE" : -122.3006351,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "33344 King Rd, Abbotsford, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "32",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 48,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1219853.7190000005, 467933.3130000001 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Burnaby Correctional Centre for Women",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "7900 Fraser Park Dr",
+				"LOCALITY" : "Burnaby",
+				"MAILING_ADDRESS" : "7900 Fraser Park Dr, Burnaby, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1856181,
+				"LONGITUDE" : -122.9863463,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "7900 Fraser Park Dr, Burnaby, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "46",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 36,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1219854.9989999991, 467942.9179999996 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Burnaby Open Living Unit",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "7900 Fraser Park Dr",
+				"LOCALITY" : "Burnaby",
+				"MAILING_ADDRESS" : "7900 Fraser Park Dr, Burnaby, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.185704,
+				"LONGITUDE" : -122.9863232,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "7900 Fraser Park Dr, Burnaby, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "47",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 54,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1270733.652999999, 453129.7090000026 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Matsqui Institution",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "33344 King Rd",
+				"LOCALITY" : "Abbotsford",
+				"MAILING_ADDRESS" : "33344 King Rd, Abbotsford, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.0307946,
+				"LONGITUDE" : -122.3006552,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "33344 King Rd, Abbotsford, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "29",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 40,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1218091.0789999992, 475058.88400000054 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Burnaby Youth Custody Services Custody Centre",
+				"KEYWORDS" : "correctional; youth custody",
+				"STREET_ADDRESS" : "3655 Willingdon Ave",
+				"LOCALITY" : "Burnaby",
+				"MAILING_ADDRESS" : "3655 Willingdon Ave, Burnaby, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.2503674,
+				"LONGITUDE" : -123.0063509,
+				"CORRECTIONAL_FACILITY_TYPE" : "YOUTHCUSTODY",
+				"PHYSICAL_ADDRESS" : "3655 Willingdon Ave, Burnaby, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "37",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 46,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1295262.6430000002, 469009.5590000022 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Chilliwack Community Correctional Centre",
+				"KEYWORDS" : "correctional; prison; jail",
+				"STREET_ADDRESS" : "45914 Rowat Ave",
+				"LOCALITY" : "Chilliwack",
+				"MAILING_ADDRESS" : "45914 Rowat Ave, Chilliwack, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1614612,
+				"LONGITUDE" : -121.953796,
+				"CORRECTIONAL_FACILITY_TYPE" : "PRISON",
+				"PHYSICAL_ADDRESS" : "45914 Rowat Ave, Chilliwack, BC",
+				"DATE_UPDATED" : "20180601",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "40",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "correctionalFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Correctional Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Federal/Provincial correctional facilities",
+				"SEQUENCE_ID" : 76,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		}
+	]
+}
